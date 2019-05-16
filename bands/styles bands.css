@@ -1,0 +1,23 @@
+/*
+  Class:   4A7B
+  Name:    L. Heijde
+  purpose: css for my favorite bands
+
+  mm-dd-yyyy  Description
+  ----------  -------------------------------------
+  26-09-2017  initial
+*/
+
+/*elements*/
+body {background-color:black;}
+h1   {font-family:lucida handwriting; 
+	      font-size:50px; 
+		  text-align:center; 
+		  color:white; 
+		  background-color:black; 
+		  border:4px; 
+		  border-style:solid;
+		  border-color:red;
+	}
+h2   {color:red;}
+p    {color:white;}

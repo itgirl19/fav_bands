@@ -1,0 +1,25 @@
+/*elements*/
+body {background-color:black;}
+h1   {font-family:lucida handwriting; 
+	      font-size:50px; 
+		  text-align:center; 
+		  color:white; 
+		  background-color:black; 
+		  border:4px; 
+		  border-style:solid;
+		  border-color:red;}
+h2 {color:red;}
+h3 {color:white;}
+p {color:white;}
+div p {color:white;
+	   background-color:red;}
+a:link, a:visited {background-color: white;
+                   color: red;
+                   border-style: double;
+                   border-width: 15px;
+                   border-radius: 12px;
+		           border-color: darkred;
+                   padding: 10px 20px;
+                   text-align: center;
+                   text-decoration: none;
+                   display: inline-block;}
